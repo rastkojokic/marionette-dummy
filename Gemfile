@@ -10,6 +10,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
 gem 'backbone-on-rails'
+gem 'marionette-rails'
 
 group :development, :test do
   gem 'byebug'
