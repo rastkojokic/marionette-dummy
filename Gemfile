@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'backbone-on-rails'
 gem 'marionette-rails'
+gem "twitter-bootstrap-rails"
 
 group :development, :test do
   gem 'byebug'
